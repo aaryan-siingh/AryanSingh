@@ -47,21 +47,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaryan-siingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan-siingh&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aaryan-siingh&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📬 How to reach me
 
